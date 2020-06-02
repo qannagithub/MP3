@@ -1,0 +1,1 @@
+cmd_/home/guoqian/project/mp3/SDK-MP3/driver/mini2440_buttons.ko := arm-linux-ld -EL -r   --build-id -o /home/guoqian/project/mp3/SDK-MP3/driver/mini2440_buttons.ko /home/guoqian/project/mp3/SDK-MP3/driver/mini2440_buttons.o /home/guoqian/project/mp3/SDK-MP3/driver/mini2440_buttons.mod.o
